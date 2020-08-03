@@ -1,0 +1,17 @@
+D:\documents\react\grider\basic\prj1\videos-hooks>vercel
+Vercel CLI 19.2.0
+? Set up and deploy “D:\documents\react\grider\basic\prj1\videos-hooks”? [Y/n] y
+? Which scope do you want to deploy to? Amrik Singh
+? Link to existing project? [y/N] n
+? What’s your project’s name? videos-hooks
+? In which directory is your code located? ./
+Auto-detected Project Settings (Create React App):
+- Build Command: `npm run build` or `react-scripts build`
+- Output Directory: build
+- Development Command: react-scripts start
+? Want to override the settings? [y/N] n
+�  Linked to amriksarang/videos-hooks (created .vercel and added it to .gitignore)
+�  Inspect: https://vercel.com/amriksarang/videos-hooks/250gd2gyp [2s]
+✅  Production: https://videos-hooks-pink-rho.vercel.app [copied to clipboard] [41s]
+�  Deployed to production. Run `vercel --prod` to overwrite later (https://vercel.link/2F).
+�  To change the domain or build command, go to https://vercel.com/amriksarang/videos-hooks/settings
